@@ -6,7 +6,7 @@ browser = webdriver.Chrome()
 #设置浏览器窗口
 browser.set_window_size(1080,800)
 # 打开网址
-browser.get('http://wms.ingeek.com:8888')
+browser.get('http://xxx.xxx.com')
 # 定位元素输入
 try:
          u = open('username.txt','r',encoding='utf-8')
